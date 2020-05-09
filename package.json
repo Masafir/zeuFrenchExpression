@@ -1,0 +1,14 @@
+{
+  "name": "frenchexpression",
+  "version": "1.0.0",
+  "description": "bot discord that send french expression mashed up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amiral",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
